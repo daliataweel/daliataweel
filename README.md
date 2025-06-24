@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://api.dicebear.com/9.x/croodles/svg?seed=Adrian" alt="avatar" height="150" />
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -9,9 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/dalya.altwyl.788328" target="_blank">
-  <img
-  src="https://api.dicebear.com/9.x/croodles/svg?seed=Adrian"
-  alt="avatar" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
 
