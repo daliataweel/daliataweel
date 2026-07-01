@@ -36,10 +36,3 @@ I'm Dalia, a Computer Science student from Palestine.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daliataweel&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliataweel&layout=compact&theme=dracula" height="150" alt="Top languages" />
-</div>
